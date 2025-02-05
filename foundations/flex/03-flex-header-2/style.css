@@ -50,12 +50,12 @@ ul {
   display: flex;
   margin: 0px;
   padding: 0px;
-  gap: 0.5em;
+  gap: 8px;
 }
 
 .flex {
   display:flex;
   align-items: center;
-  gap: 0.5em;
-  padding: 0.5em;
+  gap: 8px;
+  padding: 8px;
 }
