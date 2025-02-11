@@ -41,6 +41,11 @@ body {
   gap: 52px;
 }
 
+.item {
+  display: flex;
+  justify-content: column;
+}
+
 .info {
   max-width: 200px;
 }
